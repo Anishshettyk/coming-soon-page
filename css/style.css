@@ -274,3 +274,12 @@ h6 {
 .linkedin {
     background-color: #2867B2;
 }
+
+@media (max-width: 575px) {
+    #header .social-links a {
+        font-size: 15px;
+        padding: 7px;
+        margin: 0 5px;
+    }
+
+}
